@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/positive-train-control-onboard-unit-explainer/
 
+Repository: https://github.com/mizcausevic-dev/positive-train-control-onboard-unit-explainer
+
 ## What this is
 
 An interactive anatomy plate for Positive Train Control Onboard Unit. Play, scrub, or jump the five stages. The same frame always draws the same picture.
